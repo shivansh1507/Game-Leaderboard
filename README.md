@@ -27,7 +27,15 @@ A real-time game leaderboard system with contestant management, game sessions, a
    npm run dev
    ```
 
+
+[LIVEDEMO](https://game-leaderboard-six.vercel.app/)
+
+
 ## Demo Steps
+
+
+
+
 
 Follow these steps to test all functionality:
 
